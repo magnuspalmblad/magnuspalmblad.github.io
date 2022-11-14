@@ -11,7 +11,7 @@ Authorship on papers is a perennially thorny issue that has pricked or prickled 
 |Acknowledged author|A person who made important contributions, but whose inclusion in the author list the authors felt would diminish their own importance and therefore placed in the acknowledgements.|
 |Antepenultimate author|Third author from the end, in simple English. Synonym to peripenultimate author, propenultimate author and senior-ish author.|
 |Celebrity author|A tangentially associated author whose name was believed by the other authors to help a favorable review, especially in the more prestigious journals, such as *Science*. Or *Prestigious Journal of Science*.|
-|Co-corresponding author|An authorship given to whom that can actually answer questions. Unfortunately, this altauthor is rarely used due to concerns of the importance of the corresponding author.|
+|Co-corresponding author|An authorship given to who that can actually answer questions. Unfortunately, this altauthor is rarely used due to concerns of the importance of the corresponding author.|
 |Coffee getter|A fellow who did not contribute materially to the science in the manuscript, but was nice enough to get the other authors coffee on multiple occasions and given their current caffeine addiction it was deemed unwise to leave this author out.|
 |Draft dodger|An author, typically in the middle of the author list, who may have had early contributions to the work, but subsequently never commented on any manuscript draft.|
 |First first author|The first author of the manuscript, when there are more than one. See also: narcissistic over-achiever.|
