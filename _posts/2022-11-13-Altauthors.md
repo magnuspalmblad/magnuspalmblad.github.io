@@ -35,11 +35,12 @@ We expect that these altauthors types are quickly and widely adopted by journals
 Ben Neely (first shared, penultimate and second last senior author)
 
 Magnus Palmblad (second first, first last and non-corresponding author)
-&nbsp;  
+&nbsp;
 &nbsp;
 This post is a collaboration with [Ben Neely](https://neely.github.io/).
-&nbsp;  
-This blog post reflects the opnions of the author only, and not those of any employer or publisher.
+&nbsp;
+&nbsp;
+This blog post reflects the opnions of the authors only, and not those of any employer or publisher.
 &nbsp;  
 &nbsp;  
 &nbsp; 
