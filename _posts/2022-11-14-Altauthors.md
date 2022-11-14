@@ -37,6 +37,7 @@ Ben Neely (first shared, penultimate and second last senior author)
 Magnus Palmblad (second first, first last and non-corresponding author)
 &nbsp;  
 &nbsp;
+This post is a collaboration with [Ben Neely](https://neely.github.io/).
 &nbsp;  
 This blog post reflects the opnions of the author only, and not those of any employer or publisher.
 &nbsp;  
