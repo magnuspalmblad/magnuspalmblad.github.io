@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Altauthors
-categories: [Publishing, Authorships, Adademia, Humor]
+categories: [Authorships, Academia, Humor]
 excerpt: Authorship on papers is a perennially thorny issue that has pricked or prickled many an academic ego. In a rapidly expanding universe of joint first authors, multiple corresponding authors and shared senior authors, there is a constant need to define new author types to fully capture the complexity and describe the diversity of academic authorships. In a consolidated effort we here introduce and define the following alternative author types, altauthors, analogous to altmetrics.
 ---
 Authorship on papers is a perennially thorny issue that has pricked or prickled many an academic ego. In a rapidly expanding universe of joint first authors, multiple corresponding authors and shared senior authors, there is a constant need to define new author types to fully capture the complexity and describe the diversity of academic authorships. In a consolidated effort we here introduce and define the following alternative author types, *altauthors*, analogous to [altmetrics](https://www.altmetric.com/):
