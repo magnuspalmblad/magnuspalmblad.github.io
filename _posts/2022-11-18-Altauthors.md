@@ -29,7 +29,7 @@ Authorship on papers is a perennially thorny issue that has pricked or prickled 
 |V.S.O.P.|For Very Superior Old Professor. An author who is listed on the paper solely in capacity of their institutional standing and inflated ego. Did not contribute in any meaningful or positive way to the work or paper. See also: gentleman author.|
 
 &nbsp;  
-We expect that these altauthors types are quickly and widely adopted by journals and publishers to more accurately convey and reward each author appropriately, avoiding unnecessary bloodshed, sore toes and bruised egos.
+We expect that these altauthor types are quickly and widely adopted by journals and publishers to more accurately convey and reward each author appropriately, avoiding unnecessary bloodshed, sore toes and bruised egos.
 &nbsp;  
 &nbsp;  
 Ben Neely (first shared, penultimate and second last senior author)
