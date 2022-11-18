@@ -9,6 +9,7 @@ Authorship on papers is a perennially thorny issue that has pricked or prickled 
 |Author|Definition|
 |---|---|
 |Acknowledged author|A person who made important contributions, but whose inclusion in the author list the authors felt would diminish their own importance and therefore placed in the acknowledgements.|
+|Adversarial author|Someone that was included in the author list to prevent them from taking the other side in a possible debate. See also: PITA author. Suggested by R. Beavis.|
 |Antepenultimate author|Third author from the end, in simple English. Synonym to peripenultimate author, propenultimate author and senior-ish author.|
 |Celebrity author|A tangentially associated author whose name was believed by the other authors to help a favorable review, especially in the more prestigious journals, such as *Science*. Or *Prestigious Journal of Science*.|
 |Co-corresponding author|An authorship given to who that can actually answer questions. Unfortunately, this altauthor is rarely used due to concerns of the importance of the corresponding author.|
