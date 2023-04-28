@@ -8,6 +8,7 @@ excerpt: Proteomics and Machine Learning is an explosive combination. Explosive 
 Proteomics and Machine Learning is an explosive combination. Explosive in the sense of rapidly expanding and with far-reaching impact. This became evident in a [Lorentz Center Workshop](https://www.lorentzcenter.nl/proteomics-and-machine-learning.html) on the topic held in Leiden March 14-18, 2022, co-organized with Viktoria Dorfer, Lennart Martens and Benjamin Neely.
 
 ![Workshop_Poster]({{magnuspalmblad.github.io}}/assets/proteomics-and-machine-learning-poster-pic-x300.jpg)
+*Poster announcing the Lorentz Center workshop on Proteomics and Machine Learning*
 
 Machine Learning plays an increasingly important role in data intensive sciences such as proteomics. The workshop focused on models predicting experimental proteomics data to address important needs in experimental design, quality control and algorithm benchmarking. As any powerful technology has the potential for misuse, risks and risk mitigation were discussed in depth, with great talks by Elisabeth Bik and Samuel Payne on detecting fabricated data, including in proteomics.
 
