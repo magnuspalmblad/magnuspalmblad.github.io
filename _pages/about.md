@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is my personal blog which cover any topic of science, the history of science or research integrity that catches my interest. It is intended to hold arguments or musings too long for [Twitter](https://twitter.com/MagnusPalmblad) or [Mastodon](https://fediscience.org/web/@magnuspalmblad), but too short, unimportant or frivolous to be published in a scientific journal. I am creating this blog with the intention to publish at least one post per month, though the frequency will be variable. The blog may also feature an occasional guest blogger and links to other blogs in the future.
+This is my personal blog which cover any topic of science, the history of science or research integrity that catches my interest. It is intended to hold arguments or musings too long for [Twitter/X](https://x.com/MagnusPalmblad), [Bluesky](https://bsky.app/profile/magnuspalmblad.bsky.social) or [Mastodon](https://fediscience.org/web/@magnuspalmblad), but too short, unimportant or frivolous to be published in a scientific journal. I am creating this blog with the intention to publish at least one post per month, though the frequency will be variable. The blog also features the occasional guest blogger and links to other blogs.
 
 The blog title refers to loose leaf paper, which at least older readers know can be collected in a binder. Whether or not I will make something from individual posts remains to be seen. The "leaves" part is also a pun on my last name, being Swedish for "palm leaves".
 
