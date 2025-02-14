@@ -11,7 +11,7 @@ Federal science funding could face renewed uncertainty, particularly in areas su
 During his first term, proposed budget cuts threatened agencies like the NIH and EPA, and similar efforts would likely re-emerge, possibly with a vengeance, undermining the standing of the US in the global community.
 
 Climate science and environmental policy are particularly vulnerable. Trump's previous withdrawal from the Paris Agreement and rollbacks of EPA regulations demonstrated a preference
-for short-term profit over long-term, sustainable economic growth. A second term will likely see further reductions in climate-related research funding, regulations, and an expansion of fossil fuel use, weakening gloabl efforts to address climate change. 
+for short-term profit over long-term, sustainable economic growth. A second term will likely see further reductions in climate-related research funding, regulations, and an expansion of fossil fuel use, weakening gloabl efforts to combat climate change. 
 
 Public health and preparedness for the inevitable next pandemic could also be impacted, with the possible appointment of a vaccine skeptic to lead the HHS and threats to the personal safety of the former director of NIAID, both actions with terrible long-term prospects, severely
 compromising the US' ability to respond effectively to future public health emergencies. The integrity of scientific institutions themselves is also at stake. Under Trump’s previous administration, there were instances of scientific data suppression, interference in research reporting, and
