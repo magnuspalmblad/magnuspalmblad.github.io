@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Interview
-categories: [Science, ms-utils.org, bio.tools]
+categories: [Science, Software]
 excerpt: Interview Transcript: Melanie Henry interviews Magnus Palmblad on Curating Research Software in Bioinformatics and Omics. 
 ---
 
