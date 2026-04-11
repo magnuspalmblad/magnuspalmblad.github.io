@@ -2,7 +2,7 @@
 layout: post
 title:  Interview
 categories: [Science, Software]
-excerpt: Interview Transcript: Melanie Henry interviews Magnus Palmblad on Curating Research Software in Bioinformatics and Omics. 
+excerpt: Interview Transcript from interview where Melanie Henry talks to Magnus Palmblad on Curating Research Software in Bioinformatics and Omics. 
 ---
 
 ### **Interview Transcript: Melanie Henry interviews Magnus Palmblad on Curating Research Software in Bioinformatics and Omics**
